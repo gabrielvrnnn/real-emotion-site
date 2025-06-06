@@ -1,4 +1,5 @@
 # real-emotion-site
+Site vitrine pour l'entreprise Real E-Motion.
 
 Site vitrine pour l'entreprise **Real E-Motion**.
 
@@ -19,4 +20,3 @@ Le site utilise une palette de couleurs sobre (noir, blanc, gris) et la police *
 Aucun prérequis particulier n'est nécessaire. Ouvrez simplement `index.html` dans votre navigateur.
 
 Le formulaire de contact utilise [Formspree](https://formspree.io/). Remplacez l'URL du `action` dans le formulaire par votre propre identifiant Formspree pour recevoir les messages.
-
