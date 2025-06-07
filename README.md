@@ -1,5 +1,7 @@
 # real-emotion-site
-Site vitrine pour l'entreprise Real E-Motion.
+Le site inclut désormais une bannière vidéo en plein écran, des visuels illustratifs pour chaque section et une carte Google Maps intégrée pour indiquer l'emplacement de l'entreprise. Les animations au défilement sont gérées par la bibliothèque AOS.
+
+Un slider présente quelques témoignages fictifs et chaque carte de service possède un effet d'élévation au survol.
 
 Site vitrine pour l'entreprise **Real E-Motion**.
 
